@@ -1,5 +1,7 @@
 
-INSERT INTO characters VALUES (1, "Character name", "my motto", "human", 1, 1);
+INSERT INTO characters VALUES (1, "Alpha", "I am first", "human", 1, 1);
+INSERT INTO characters VALUES (1, "Beta", "I am second", "human", 1, 1);
+
 
 INSERT INTO books VALUES (1, "My Book 1.1", "1900", 1);
 INSERT INTO books VALUES (2, "My Book 1.2", "1900", 1);
