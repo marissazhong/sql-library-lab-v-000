@@ -24,7 +24,6 @@ INSERT INTO authors VALUES (2, "Author 2");
 INSERT INTO subgenres VALUES (1, "Subgenre 1");
 INSERT INTO subgenres VALUES (2, "Subgenre 2");
 
-"character_id, book_id"
 INSERT INTO character_books VALUES (1, 1, 1);
 INSERT INTO character_books VALUES (2, 1, 2);
 INSERT INTO character_books VALUES (3, 1, 3);
