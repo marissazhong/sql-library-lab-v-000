@@ -4,10 +4,3 @@ CREATE TABLE series (id INTEGER PRIMARY KEY, title TEXT, author_id INTEGER, subg
 CREATE TABLE authors (id INTEGER PRIMARY KEY, name TEXT);
 CREATE TABLE subgenres (id INTEGER PRIMARY KEY, name TEXT);
 CREATE TABLE characters_books (id INTEGER PRIMARY KEY, character_id INTEGER, book_id INTEGER);
-
-INSERT INTO characters VALUES (1, "Character name", "my motto", "human", 1, 1);
-INSERT INTO books VALUES (1, "Title", "1900", 1);
-INSERT INTO series VALUES (1, "Title", 1, 1);
-INSERT INTO authors VALUES (1, "name");
-INSERT INTO subgenres VALUES (1, "name");
-INSERT INTO characters_books VALUES (1, 1, 1);
