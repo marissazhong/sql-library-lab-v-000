@@ -26,10 +26,19 @@ INSERT INTO subgenres VALUES (2, "Subgenre 2");
 
 "character_id, book_id"
 INSERT INTO characters_books VALUES (1, 1, 1);
-INSERT INTO characters_books VALUES (1, 1, 2);
-INSERT INTO characters_books VALUES (1, 1, 3);
-INSERT INTO characters_books VALUES (1, 2, 1);
-INSERT INTO characters_books VALUES (1, 2, 2);
-INSERT INTO characters_books VALUES (1, 2, 3);
-INSERT INTO characters_books VALUES (1, 3, 1);
-INSERT INTO characters_books VALUES (1, 4, 2);
+INSERT INTO characters_books VALUES (2, 1, 2);
+INSERT INTO characters_books VALUES (3, 1, 3);
+INSERT INTO characters_books VALUES (4, 2, 1);
+INSERT INTO characters_books VALUES (5, 2, 2);
+INSERT INTO characters_books VALUES (6, 2, 3);
+INSERT INTO characters_books VALUES (7, 3, 1);
+INSERT INTO characters_books VALUES (8, 4, 2);
+
+INSERT INTO characters_books VALUES (9, 1, 1);
+INSERT INTO characters_books VALUES (10, 1, 2);
+INSERT INTO characters_books VALUES (11, 1, 3);
+INSERT INTO characters_books VALUES (12, 2, 1);
+INSERT INTO characters_books VALUES (13, 2, 2);
+INSERT INTO characters_books VALUES (14, 2, 3);
+INSERT INTO characters_books VALUES (15, 3, 1);
+INSERT INTO characters_books VALUES (16, 4, 2);
