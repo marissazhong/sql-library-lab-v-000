@@ -3,3 +3,4 @@ CREATE TABLE books (id INTEGER PRIMARY KEY, title TEXT, year INTEGER, series_id 
 
 
 INSERT INTO characters VALUES (1, "Character name", "my motto", "human", 1, 1);
+INSERT INTO books VALUES (1, "Title", "1900", 1);
