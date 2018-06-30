@@ -3,10 +3,10 @@ INSERT INTO characters VALUES (1, "Alpha", "I am first", "God", 1, 1);
 INSERT INTO characters VALUES (2, "Beta", "I am second", "God", 1, 1);
 INSERT INTO characters VALUES (3, "Gamma", "I am third", "Demi-god", 1, 1);
 INSERT INTO characters VALUES (4, "Delta", "I am fourth", "Demi-god", 1, 1);
-INSERT INTO characters VALUES (1, "Alpha", "I am first", "God", 1, 2);
-INSERT INTO characters VALUES (2, "Beta", "I am second", "God", 1, 2);
-INSERT INTO characters VALUES (3, "Gamma", "I am third", "Demi-god", 1, 2);
-INSERT INTO characters VALUES (4, "Delta", "I am fourth", "Demi-god", 1, 2);
+INSERT INTO characters VALUES (1, "Epsilon", "I am first", "God", 1, 2);
+INSERT INTO characters VALUES (2, "Zeta", "I am second", "God", 1, 2);
+INSERT INTO characters VALUES (3, "Eta", "I am third", "Demi-god", 1, 2);
+INSERT INTO characters VALUES (4, "Theta", "I am fourth", "Demi-god", 1, 2);
 
 INSERT INTO books VALUES (1, "My Book 1.1", "1900", 1);
 INSERT INTO books VALUES (2, "My Book 1.2", "1900", 1);
