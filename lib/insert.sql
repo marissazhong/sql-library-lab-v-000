@@ -25,20 +25,20 @@ INSERT INTO subgenres VALUES (1, "Subgenre 1");
 INSERT INTO subgenres VALUES (2, "Subgenre 2");
 
 "character_id, book_id"
-INSERT INTO characters_books VALUES (1, 1, 1);
-INSERT INTO characters_books VALUES (2, 1, 2);
-INSERT INTO characters_books VALUES (3, 1, 3);
-INSERT INTO characters_books VALUES (4, 2, 1);
-INSERT INTO characters_books VALUES (5, 2, 2);
-INSERT INTO characters_books VALUES (6, 2, 3);
-INSERT INTO characters_books VALUES (7, 3, 1);
-INSERT INTO characters_books VALUES (8, 4, 2);
+INSERT INTO character_books VALUES (1, 1, 1);
+INSERT INTO character_books VALUES (2, 1, 2);
+INSERT INTO character_books VALUES (3, 1, 3);
+INSERT INTO character_books VALUES (4, 2, 1);
+INSERT INTO character_books VALUES (5, 2, 2);
+INSERT INTO character_books VALUES (6, 2, 3);
+INSERT INTO character_books VALUES (7, 3, 1);
+INSERT INTO character_books VALUES (8, 4, 2);
 
-INSERT INTO characters_books VALUES (9, 5, 4);
-INSERT INTO characters_books VALUES (10, 5, 5);
-INSERT INTO characters_books VALUES (11, 5, 6);
-INSERT INTO characters_books VALUES (12, 6, 4);
-INSERT INTO characters_books VALUES (13, 6, 5);
-INSERT INTO characters_books VALUES (14, 6, 6);
-INSERT INTO characters_books VALUES (15, 7, 4);
-INSERT INTO characters_books VALUES (16, 8, 5);
+INSERT INTO character_books VALUES (9, 5, 4);
+INSERT INTO character_books VALUES (10, 5, 5);
+INSERT INTO character_books VALUES (11, 5, 6);
+INSERT INTO character_books VALUES (12, 6, 4);
+INSERT INTO character_books VALUES (13, 6, 5);
+INSERT INTO character_books VALUES (14, 6, 6);
+INSERT INTO character_books VALUES (15, 7, 4);
+INSERT INTO character_books VALUES (16, 8, 5);
